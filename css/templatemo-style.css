@@ -392,7 +392,7 @@ header .social-icon li a
 		cursor: pointer;
 		opacity: 0.8;
 	}
-.galleryImg {
+#portfolio img {
 	max-height: 195px;
 	width: 100%;
 }
