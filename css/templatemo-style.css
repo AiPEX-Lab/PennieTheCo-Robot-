@@ -277,7 +277,7 @@ header .social-icon li a
 /* start team */
 #team .team-wrapper
 	{
-		background: #404040;
+		background: #e6c573;
 		padding-bottom: 10px;
 		-webkit-transition: all 0.4s ease-in-out;
 		        transition: all 0.4s ease-in-out;
@@ -351,6 +351,10 @@ header .social-icon li a
 	.portfolio-overlay {
 		max-width: 450px;
 	}
+#portfolio img {
+	max-height: 195px;
+	width: 100%;
+}
 #portfolio .portfolio-thumb
 	{
 		overflow: hidden;
@@ -392,10 +396,6 @@ header .social-icon li a
 		cursor: pointer;
 		opacity: 0.8;
 	}
-#portfolio img {
-	max-height: 195px;
-	width: 100%;
-}
 /* end portfolio */
 
 /* start contact */
